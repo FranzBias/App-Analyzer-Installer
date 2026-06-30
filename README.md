@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Debian-informational)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Debian)
 ![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20FranzBias-blueviolet)
 
 ---
